@@ -1,0 +1,27 @@
+
+state = {
+	id = 839
+	name = "STATE_839"
+	manpower = 3161521
+	
+	state_category = city
+	resources={
+		rubber=1 
+	}
+	history = {
+		owner = GER
+		
+		buildings = {
+		
+			infrastructure = 3
+			
+		}
+	
+	}
+
+	provinces = {
+		1992 4889 7978 8034 10831
+	}
+
+	local_supplies = 6.0 
+}

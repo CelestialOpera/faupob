@@ -17,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 197 0 0 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -59,7 +59,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 128 35 35 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -101,7 +101,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 177 74 74 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -143,7 +143,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 181 114 114 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -185,7 +185,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 239 231 91 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -227,7 +227,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 184 181 41 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -269,7 +269,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 56 120 172 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -311,7 +311,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 109 112 115 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -336,7 +336,7 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 	
-	despotism_ideology = {
+	despotism = {
 	
 		types = {
 		
@@ -353,7 +353,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 64 64 64 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -395,7 +395,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 86 66 46 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0

@@ -10,13 +10,16 @@ state={
 	state_category = large_town
 
 	history={
-		owner = TUR
+		owner = GRE
 		
 		victory_points = {
 			4112 15
 		}
 		victory_points = {
 			928 5
+		}
+		victory_points = {
+			9799 5
 		}
 		buildings = {
 			infrastructure = 2
@@ -26,11 +29,11 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = TUR
+		add_core_of = GRE
 	}
 
 	provinces={
-		928 3927 4112 6992 7130 9921 9929 10038 11848 11898 
+		928 3927 4112 6864 6992 7130 9799 9887 6912 9921 9929 10038 11778 11848 11898 
 	}
 
 	local_supplies=8.0 

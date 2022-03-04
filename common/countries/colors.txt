@@ -1,11 +1,11 @@
 #reload countrycolors
 
-GER = {
-	color = HSV { 0.1 0.15 0.4 }
+GER = { #DONE
+	color = rgb { 83 96 113 }
 	color_ui = rgb { 138 155 116 }
 }
-ENG = {
-	color = rgb { 201 56 93 }
+ENG = { #DONE
+	color = rgb { 177 82 101 }
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
@@ -16,33 +16,36 @@ SWE = {
 	color = rgb { 36 132 247 }
 	color_ui = rgb { 47 172 255 }
 }
-FRA = {
-	color = rgb { 57 113 228 }
+FRA = { #DONE
+	color = rgb { 84 114 198 }
 	color_ui = rgb { 74 147 255 }
 }
-LUX = {
-	color = rgb { 65 175 179 }
+LUX = { #DONE
+	color = rgb { 110 170 172 }
 	color_ui = rgb { 85 228 233 }
 }
-BEL = { color 	 = rgb { 193 171 8  }
-		color_ui = rgb { 251 222 10 }
-	  }
-HOL = {	color = rgb { 203 138 74 }
-		color_ui = rgb { 255 179 96 }
+BEL = { #DONE
+	color 	 = rgb { 186 171 106  }
+	color_ui = rgb { 251 222 10 }
 }
-CZE = {	color = rgb { 54 167 156 }
-		color_ui = rgb { 70 217 203 }
+HOL = {	#DONE
+	color = rgb { 219 151 113 }
+	color_ui = rgb { 255 179 96 }
 }
-POL = {
-	color = rgb { 214 102 139 }
+CZE = {	
+	color = rgb { 54 167 156 }
+	color_ui = rgb { 70 217 203 }
+}
+POL = { #DONE
+	color = rgb { 192 117 139 }
 	color_ui = rgb { 255 120 138 }
 }
 AUS = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 255 255 255 }
 }
-LIT = {
-	color = rgb { 219 219 119 }
+LIT = { #DONE
+	color = rgb { 217 217 161 }
 	color_ui = rgb { 255 255 155 }
 }
 EST = {
@@ -53,12 +56,12 @@ LAT = {
 	color = rgb { 75 77 186 }
 	color_ui = rgb { 124 125 184 }
 }
-SPR = {
-	color = rgb { 242 205 94 }
+SPR = { #DONE
+	color = rgb { 231 207 148 }
 	color_ui = rgb { 255 255 122 }
 }
-ITA = {
-	color = rgb { 67 127 63 }
+ITA = { #DONE
+	color = rgb { 87 123 85 }
 	color_ui = rgb { 87 165 82 }
 }
 ROM = {
@@ -73,13 +76,13 @@ SWI = {
 	color = rgb { 224 5 5 }
 	color_ui = rgb { 193 81 81 }
 }
-TUR = {
-	color = rgb { 171 190 152 }
+TUR = { #DONE
+	color = rgb { 181 116 116 }
 	color_ui = rgb { 222 247 198 }
 }
-GRE = {
-	color = rgb { 93 181 227 }
-	color_ui = rgb { 121 235 255 }
+GRE = { #DONE
+	color = rgb { 127 177 209 }
+	color_ui = rgb { 127 177 209 }
 }
 ALB = {
 	color = rgb { 149 45 102 }
@@ -93,8 +96,8 @@ DEN = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
 }
-BUL = {
-	color = rgb { 51 155 0 }
+BUL = { #DONE
+	color = rgb { 92 148 82 }
 	color_ui = rgb { 210 147 217 }
 }
 POR = {
@@ -141,9 +144,9 @@ CAN = {
 	color = rgb { 233  59  59 }
 	color_ui = rgb { 155 62 51 }
 }
-CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
-	color_ui = hsv { 0.18 0.3 0.9 }
+CHI = { #DONE
+	color = rgb { 226  222  141 }
+	color_ui = rgb { 230  223  50 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -225,9 +228,9 @@ SAF = {
 	color = rgb { 195 107 160 }
 	color_ui = rgb { 198 169 248 }
 }
-SAU = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+SAU = { #DONE
+	color = rgb { 128 183 118 }
+	color_ui = rgb { 128 183 118 }
 }
 SIA = {
 	color = rgb { 171 190 152 }
@@ -253,8 +256,8 @@ YUN = {
 	color = rgb { 114 148 80 }
 	color_ui = rgb { 222 247 198 }
 }
-USA = {
-	color = rgb { 20 133 237 }
+USA = { #DONE
+	color = rgb { 81 132 208 }
 	color_ui = rgb { 87 160 255 }
 }
 MON = {
@@ -368,8 +371,8 @@ ICE = {
 	color_ui = rgb { 100  125  175 }
 }
 
-UKR = {
-	color = rgb { 0  80  230 }
+UKR = { #DONE
+	color = rgb { 54  84  196 }
 	color_ui = rgb { 0  80  230 }	
 }
 
@@ -399,7 +402,7 @@ INS = {
 }
 
 VIN = {
-	color = rgb { 230  223  50 }
+	color = rgb { 230  50  50 }
 	color_ui = rgb { 230  223  50 }
 }
 
@@ -418,8 +421,8 @@ MNT = {
 	color_ui = rgb { 77  90  105 }
 }
 
-BLR = {
-	color = rgb { 180 220 190 }
+BLR = { #DONE
+	color = rgb { 191 217 197 }
 	color_ui = rgb { 180 220 190 }
 }
 MAN = {
@@ -463,17 +466,37 @@ DDR = {
     color = rgb { 120 150 80 }
     color_ui = rgb { 150 180 120 }
 }
-KOR = {
-	color = rgb { 255  240  195 }
+KOR = { #DONE
+	color = rgb { 91  78  192 }
 	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }
 	color_ui = rgb { 152  130  191 }
 }
-CSA = {
-	color = rgb { 145 163 176  }
+CSA = { #DONE
+	color = rgb { 150 162 171  }
 	color_ui = rgb { 186 205 219 }
+}
+GLO = {
+	color = rgb { 200 200 200  }
+	color_ui = rgb { 200 200 200  }
+}
+TEX = { #DONE
+	color = rgb { 46 60 110  }
+	color_ui = rgb { 35 59 128  }
+}
+RUS = { #DONE
+	color = rgb { 66 119 68  }
+	color_ui = rgb { 13 125 24 }
+}
+POS = { #DONE
+	color = rgb { 194 78 78 }
+	color_ui = rgb { 194 78 78 }
+}
+BLT = { #DONE
+	color = rgb { 194 78 78 }
+	color_ui = rgb { 194 78 78 }
 }
 D01 = {
 	color = rgb { 122 179 97 }

@@ -9,10 +9,62 @@
  #PROJECT_WILSON_NAME:0 "Project Wilson"
  
  #Ideologies
+ social_democracy:0 "Social Democracy"
+ social_democracy_desc:0 "Social Democratic Regime"
+ social_democracy_noun:0 "Social Democracy"
+ libertarian_socialism:0 "Libertarian Socialism"
+ libertarian_socialism_desc:0 "Libertarian Socialist Regime"
+ libertarian_socialism_noun:0 "Libertarian Socialism"
+ popular_socialism:0 "Popular Socialism"
+ popular_socialism_desc:0 "Popular Socialist Regime"
+ popular_socialism_noun:0 "Popular Socialism"
+ radicalism:0 "Radicalism"
+ radicalism_desc:0 "Radical Regime"
+ radicalism_noun:0 "Radicalism"
+ market_liberalism:0 "Market Liberalism"
+ market_liberalism_desc:0 "Market Liberal Regime"
+ market_liberalism_noun:0 "Market Liberalism"
+ national_liberalism:0 "National Liberalism"
+ national_liberalism_desc:0 "National Liberal Regime"
+ national_liberalism_noun:0 "National Liberalism"
+ social_conservatism:0 "Social Conservatism"
+ social_conservatism_desc:0 "Social Conservative Regime"
+ social_conservatism_noun:0 "Social Conservatism"
+ authoritarian_democracy:0 "Authoritarian Democracy"
+ authoritarian_democracy_desc:0 "Authoritarian Democratic Regime"
+ authoritarian_democracy_noun:0 "Authoritarian Democracy"
+ despotism:0 "Despotism"
+ despotism_desc:0 "Despotic Regime"
+ despotism_noun:0 "Despotism"
+ narodnism:0 "Narodnism"
+ narodnism_desc:0 "Narodnist Regime"
+ narodnism_noun:0 "Narodnism"
+ 
  
  #Sub-Ideologies
  
  
+ 
+ social_democracy_ideology:0 "Social Democracy"
+ social_democracy_ideology_desc:0 ""
+ libertarian_socialism_ideology:0 "Libertarian Socialism"
+ libertarian_socialism_ideology_desc:0 ""
+ popular_socialism_ideology:0 "Popular Socialism"
+ popular_socialism_ideology_desc:0 ""
+ radicalism_ideology:0 "Radicalism"
+ radicalism_ideology_desc:0 ""
+ market_liberalism_ideology:0 "Market Liberalism"
+ market_liberalism_ideology_desc:0 ""
+ national_liberalism_ideology:0 "National Liberalism"
+ national_liberalism_ideology_desc:0 ""
+ social_conservatism_ideology:0 "Social Conservative"
+ social_conservatism_ideology_desc:0 ""
+ authoritarian_democracy_ideology:0 "Authoritarian Democracy"
+ authoritarian_democracy_ideology_desc:0 ""
+ despotism_ideology:0 "Despotism"
+ despotism_ideology_desc:0 ""
+ narodnism_ideology:0 "Narodnism"
+ narodnism_ideology_desc:0 ""
  
  ###Country Ideas###
  ###################

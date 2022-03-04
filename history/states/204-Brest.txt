@@ -13,16 +13,15 @@ state={
 		victory_points = {
 			11313 1
 		}
-		owner = SOV
+		owner = BLR
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
-		add_core_of = SOV
 		add_core_of = BLR
 	}
 
 	provinces={
-		304 331 360 386 3350 3759 6373 11313 
+		215 304 331 360 386 3203 3293 3350 3507 3759 6319 6373 9249 11313 
 	}
 
 	local_supplies=0.0 
