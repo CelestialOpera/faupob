@@ -4,12 +4,12 @@ bookmarks = {
 		desc = "THE_BUILDING_STORM_DESC"
 		date = 1923.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "RUS"
 		default = yes
 		
-		"FRA"={
-			history = "FRA_THE_BUILDING_STORM_DESC"
-			ideology = radicalism
+		"GER"={
+			history = "GER_THE_BUILDING_STORM_DESC"
+			ideology = authoritarian_democracy
 			ideas = {
 
 			}
@@ -19,7 +19,7 @@ bookmarks = {
 		}
 		"USA"={
 			history = "USA_THE_BUILDING_STORM_DESC"
-			ideology = radicalism
+			ideology = popular_socialism
 			ideas = {
 				
 			}
@@ -29,7 +29,7 @@ bookmarks = {
 		}
 		"ENG"={
 			history = "ENG_THE_BUILDING_STORM_DESC"
-			ideology = radicalism
+			ideology = national_liberalism
 			ideas = {
 				
 			}
@@ -37,9 +37,9 @@ bookmarks = {
 				
 			}
 		}
-		"GER"={
-			history = "GER_THE_BUILDING_STORM_DESC"
-			ideology = narodnism
+		"RUS"={
+			history = "RUS_THE_BUILDING_STORM_DESC"
+			ideology = despotism
 			ideas = {
 				
 			}
@@ -49,7 +49,7 @@ bookmarks = {
 		}
 		"ITA"={
 			history = "ITA_THE_BUILDING_STORM_DESC"
-			ideology = narodnism
+			ideology = social_conservatism
 			ideas = {
 				
 			}	
@@ -57,9 +57,9 @@ bookmarks = {
 				
 			}		
 		}
-		"JAP"={
-			history = "JAP_THE_BUILDING_STORM_DESC"
-			ideology = narodnism
+		"FRA"={
+			history = "FRA_THE_BUILDING_STORM_DESC"
+			ideology = radicalism
 			ideas = {
 				
 			}	
@@ -67,9 +67,9 @@ bookmarks = {
 				
 			}			
 		}
-		"SOV"={
-			history = "SOV_THE_BUILDING_STORM_DESC"
-			ideology = social_democracy
+		"BRA"={
+			history = "BRA_THE_BUILDING_STORM_DESC"
+			ideology = market_liberalism
 			ideas = {
 			
 			}

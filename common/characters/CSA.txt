@@ -1,0 +1,16 @@
+characters = {
+	CSA_Charles_Henderson = {
+		name = "Charles Henderson" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/CSA/Charles_Henderson.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

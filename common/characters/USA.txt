@@ -1,0 +1,16 @@
+characters = {
+	USA_Eugene_V_Debs = {
+		name = "Eugene V. Debs" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/USA/Eugene_V_Debs.dds"
+			}
+		}
+		country_leader = {
+			ideology = popular_socialism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

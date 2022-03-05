@@ -1,0 +1,16 @@
+characters = {
+	RUS_Nikolai_Yudenich = {
+		name = "Nikolai Yudenich" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/RUS/Nikolai_Yudenich.dds"
+			}
+		}
+		country_leader = {
+			ideology = despotism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	
