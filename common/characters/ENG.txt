@@ -1,0 +1,16 @@
+characters = {
+	ENG_David_Lloyd_George = {
+		name = "David Lloyd George" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/ENG/David_Lloyd_George.dds"
+			}
+		}
+		country_leader = {
+			ideology = national_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	
