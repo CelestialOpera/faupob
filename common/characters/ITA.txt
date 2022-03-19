@@ -1,0 +1,16 @@
+characters = {
+	ITA_Emperor_Alfonso = {
+		name = "Emperor Alfonso" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/ITA/Alfonso_Emperor.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -1,0 +1,16 @@
+characters = {
+	FRA_Joseph_Noulens = {
+		name = "Joseph Noulens" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/FRA/Joseph_Noulens.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

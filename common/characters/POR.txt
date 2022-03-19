@@ -1,0 +1,17 @@
+characters = {
+	POR_Jose_Vicente_de_Freitas = {
+		name = "José Vicente de Freitas" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/POR/Jose_Vicente_de_Freitas.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+	
+}
+	

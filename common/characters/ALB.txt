@@ -1,0 +1,16 @@
+characters = {
+	ALB_Halim_Jakov_Gostivari = {
+		name = "Halim Jakova-Gostivari" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/ALB/Halim_Jakov_Gostivari.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

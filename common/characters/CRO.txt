@@ -1,0 +1,16 @@
+characters = {
+	CRO_Ilija_King_I = {
+		name = "King Ilija I" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/CRO/Ilija_King_I.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

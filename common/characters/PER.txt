@@ -1,0 +1,16 @@
+characters = {
+	PER_Mirza_Kuchak_Khan = { #Mīrzā Kūchak Khān
+		name = "Mirza Kuchak Khan" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/PER/Mirza_Kuchak_Khan.dds"
+			}
+		}
+		country_leader = {
+			ideology = popular_socialism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

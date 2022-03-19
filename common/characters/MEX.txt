@@ -1,0 +1,30 @@
+characters = {
+	MEX_Emperor_Carlos = {
+		name = "Emperor Carlos" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/MEX/Carlos_Emperor.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+	
+	MEX_Bernardo_Reyes = {
+		name = "Bernardo Reyes" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/MEX/Bernardo_Reyes.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

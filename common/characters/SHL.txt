@@ -1,0 +1,16 @@
+characters = {
+	SHL_Emil_Lueken = {
+		name = "Emil Lueken" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/SHL/Emil_Lueken.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

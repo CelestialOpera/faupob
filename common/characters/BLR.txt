@@ -1,0 +1,16 @@
+characters = {
+	BLR_Anton_Luckievic = {
+		name = "Anton Luckievic" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/BLR/Anton_Luckievic.dds"
+			}
+		}
+		country_leader = {
+			ideology = popular_socialism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

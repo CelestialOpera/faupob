@@ -140,9 +140,9 @@ BRA = {
 	color = rgb { 76 145 63 }
 	color_ui = rgb { 99 189 82 }
 }
-CAN = {
-	color = rgb { 233  59  59 }
-	color_ui = rgb { 155 62 51 }
+CAN = { #DONE
+	color = rgb { 105 57 53 }
+	color_ui = rgb { 105 57 53 }
 }
 CHI = { #DONE
 	color = rgb { 226  222  141 }
@@ -212,8 +212,8 @@ PAN = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
-PER = {
-	color = rgb { 71 113 97 }
+PER = { #DONE
+	color = rgb { 94 140 119 }
 	color_ui = rgb { 92 147 126 }
 }
 PHI = {
@@ -501,6 +501,14 @@ BLT = { #DONE
 KUR = { #DONE
 	color = rgb { 220 182 119 }
 	color_ui = rgb { 194 78 78 }
+}
+CUL = { #DONE
+	color = rgb { 134 76 86 }
+	color_ui = rgb { 134 76 86 }
+}
+ATH = { #DONE
+	color = rgb { 150 58 77 }
+	color_ui = rgb { 150 58 77 }
 }
 D01 = {
 	color = rgb { 122 179 97 }

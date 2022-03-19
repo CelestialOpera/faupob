@@ -1,0 +1,28 @@
+
+state = {
+	id = 840
+	name = "STATE_840"
+	manpower = 61521
+	
+	state_category = pastoral
+	resources={
+		rubber=1 
+	}
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		
+		buildings = {
+		
+			infrastructure = 2
+			
+		}
+	
+	}
+
+	provinces = {
+		5200 8224 12951
+	}
+
+	local_supplies = 6.0 
+}

@@ -1,0 +1,16 @@
+characters = {
+	UKR_Pavlo_Skoropadskyi = {
+		name = "Pavlo Skoropadskyi" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/UKR/Pavlo_Skoropadskyi.dds"
+			}
+		}
+		country_leader = {
+			ideology = despotism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

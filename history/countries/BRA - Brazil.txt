@@ -1,5 +1,6 @@
 ﻿capital = 500
 
+recruit_character = BRA_Borges_De_Medeiros
 
 set_technology = {
 	infantry_weapons = 1
@@ -9,7 +10,7 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = national_liberalism
+	ruling_party = radicalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

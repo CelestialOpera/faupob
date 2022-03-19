@@ -1,0 +1,16 @@
+characters = {
+	HOL_Charles_Ruijs_de_Beerenbrouck = {
+		name = "Charles Ruijs de Beerenbrouck" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/HOL/Charles_Ruijs_de_Beerenbrouck.dds"
+			}
+		}
+		country_leader = {
+			ideology = national_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

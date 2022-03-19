@@ -1,0 +1,16 @@
+characters = {
+	FIN_Martin_Wetzer = {
+		name = "Martin Wetzer" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/FIN/Martin_Wetzer.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

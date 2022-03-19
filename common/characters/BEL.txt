@@ -1,0 +1,16 @@
+characters = {
+	BEL_Georges_Theunis = {
+		name = "Georges Theunis" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/BEL/Georges_Theunis.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

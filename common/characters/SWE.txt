@@ -1,0 +1,16 @@
+characters = {
+	SWE_Hjalmar_Branting = {
+		name = "Hjalmar Branting" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/SWE/Hjalmar_Branting.dds"
+			}
+		}
+		country_leader = {
+			ideology = popular_socialism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

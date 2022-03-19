@@ -1,0 +1,16 @@
+characters = {
+	SPR_Alvaro_de_Figueroa = {
+		name = "Álvaro de Figueroa" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/SPR/Alvaro_de_Figueroa.dds"
+			}
+		}
+		country_leader = {
+			ideology = national_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

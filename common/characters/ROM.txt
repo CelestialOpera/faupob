@@ -1,0 +1,16 @@
+characters = {
+	ROM_Ferdinand_I_King = {
+		name = "King Ferdinand I" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/ROM/Ferdinand_I_King.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

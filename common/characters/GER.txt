@@ -1,0 +1,16 @@
+characters = {
+	GER_Wilhelm_II_Kaiser = {
+		name = "Kaiser Wilhelm II" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/GER/Wilhelm_II_Kaiser.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

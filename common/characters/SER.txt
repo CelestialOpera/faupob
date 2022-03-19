@@ -1,0 +1,16 @@
+characters = {
+	SER_Nikola_Uzunovic = {
+		name = "Nikola Uzunović" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/SER/Nikola_Uzunovic.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

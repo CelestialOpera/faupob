@@ -1,0 +1,16 @@
+characters = {
+	TEX_Alfred_Hauler = { #Alfred Wagenknecht
+		name = "Alfred Hauler" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/TEX/Alfred_Hauler.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

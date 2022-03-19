@@ -1,0 +1,16 @@
+characters = {
+	GRE_Alexandros_Zaimis = {
+		name = "Alexandros Zaimis" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/GRE/Alexandros_Zaimis.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

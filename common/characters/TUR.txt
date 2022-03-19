@@ -1,0 +1,16 @@
+characters = {
+	TUR_Ismail_Enver_Pasha = {
+		name = "Ismail Enver Pasha" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/TUR/Ismail_Enver_Pasha.dds"
+			}
+		}
+		country_leader = {
+			ideology = narodnism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

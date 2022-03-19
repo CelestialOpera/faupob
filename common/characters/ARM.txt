@@ -1,0 +1,16 @@
+characters = {
+	ARM_Yeprem_Khan = {
+		name = "Yeprem Khan" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/ARM/Yeprem_Khan.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

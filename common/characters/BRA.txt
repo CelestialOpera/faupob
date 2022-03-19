@@ -1,0 +1,16 @@
+characters = {
+	BRA_Borges_De_Medeiros = {
+		name = "Borges de Medeiros" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/BRA/Borges_De_Medeiros.dds"
+			}
+		}
+		country_leader = {
+			ideology = radicalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -1,0 +1,17 @@
+characters = {
+	POS_Bento_de_Jesus_Caraca = {
+		name = "Bento de Jesus Caraça" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/POS/Bento_de_Jesus_Caraca.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+	
+}
+	

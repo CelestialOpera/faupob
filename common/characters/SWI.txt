@@ -1,0 +1,36 @@
+characters = {
+	SWI_Federal_Council = {
+		name = "Federal Council" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/SWI/Federal_council.dds"
+			}
+		}
+		country_leader = {
+			ideology = radicalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+		country_leader = {
+			ideology = market_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+		country_leader = {
+			ideology = national_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

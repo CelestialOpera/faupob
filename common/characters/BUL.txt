@@ -1,0 +1,16 @@
+characters = {
+	BUL_Kiril_King_Romanov = {
+		name = "King Kiril I" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/BUL/Kiril_King_Romanov.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

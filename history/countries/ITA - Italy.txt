@@ -8,11 +8,13 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = national_liberalism
+	ruling_party = authoritarian_democracy
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
+
+recruit_character = ITA_Emperor_Alfonso
 
 set_popularities = {
 	social_democracy = 0

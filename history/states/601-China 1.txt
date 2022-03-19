@@ -6,8 +6,7 @@ state={
 	}
 
 	history={
-		owner = CHI
-		add_core_of = CHI
+		owner = TIB
 		add_core_of = TIB
 		
 		buildings = {
@@ -17,13 +16,7 @@ state={
 		victory_points = {
 			10856 1
 		}
-		1939.1.1 = {
-			buildings = {
-				infrastructure = 1
-
-			}
-
-		}
+		
 
 	}
 

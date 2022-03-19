@@ -1,5 +1,7 @@
 ﻿capital = 64
 
+recruit_character = GER_Wilhelm_II_Kaiser
+
 set_technology = {
 	infantry_weapons = 1
 	tech_support = 1
@@ -8,7 +10,7 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = national_liberalism
+	ruling_party = authoritarian_democracy
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

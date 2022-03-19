@@ -1,0 +1,16 @@
+characters = {
+	POL_Henryk_King = {
+		name = "King Henryk" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/POL/Henryk_King.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

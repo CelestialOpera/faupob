@@ -1,0 +1,16 @@
+characters = {
+	HUN_Bela_Steiner = {
+		name = "Béla Steiner" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/HUN/Bela_Steiner.dds"
+			}
+		}
+		country_leader = {
+			ideology = radicalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

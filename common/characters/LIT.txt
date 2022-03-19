@@ -1,0 +1,16 @@
+characters = {
+	LIT_Pranas_Dovydaitis = {
+		name = "Pranas Dovydaitis" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/LIT/Pranas_Dovydaitis.dds"
+			}
+		}
+		country_leader = {
+			ideology = national_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

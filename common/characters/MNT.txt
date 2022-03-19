@@ -1,0 +1,16 @@
+characters = {
+	MNT_Danilo_II_King = {
+		name = "King Danilo II" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/MNT/Danilo_II_King.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

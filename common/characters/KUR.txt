@@ -1,0 +1,16 @@
+characters = {
+	KUR_Ferzende_Beg = {
+		name = "Ferzende Beg" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/KUR/Ferzende_Beg.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

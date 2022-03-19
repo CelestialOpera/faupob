@@ -1,0 +1,16 @@
+characters = {
+	GLO_Arthur_Giesl_von_Gieslingen = {
+		name = "Arthur von Gieslingen" #Regent on behalf of the German Empire.
+		portraits = {
+			civilian={
+				large="gfx/leaders/GLO/Arthur_Giesl_von_Gieslingen.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

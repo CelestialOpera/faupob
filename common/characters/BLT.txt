@@ -1,0 +1,16 @@
+characters = {
+	BLT_Jekabs_Peterss = {
+		name = "Jekabs Peterss" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/BLT/Jekabs_Peterss.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

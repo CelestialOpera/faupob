@@ -1,0 +1,16 @@
+characters = {
+	GUA_Manuel_Maria_Orellana_Contreras = {
+		name = "Manuel María Contreras" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/GUA/Manuel_Maria_Orellana_Contreras.dds"
+			}
+		}
+		country_leader = {
+			ideology = despotism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

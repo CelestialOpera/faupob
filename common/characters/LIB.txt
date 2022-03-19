@@ -1,0 +1,16 @@
+characters = {
+	LIB_Timothy_Johnson = {
+		name = "Timothy Johnson" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/LIB/Timothy_Johnson.dds"
+			}
+		}
+		country_leader = {
+			ideology = market_liberalism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

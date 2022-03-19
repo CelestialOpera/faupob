@@ -1,0 +1,16 @@
+characters = {
+	SLO_Milan_Hodza = {
+		name = "Milan Hodza" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/SLO/Milan_Hodza.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_conservatism_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

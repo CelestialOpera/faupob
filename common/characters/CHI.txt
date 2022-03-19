@@ -1,0 +1,16 @@
+characters = {
+	CHI_Sun_Yat_sen = {
+		name = "Sun Yat-sen" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/CHI/Sun_Yat_sen.dds"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	
